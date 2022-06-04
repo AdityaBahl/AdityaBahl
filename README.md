@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aditya Bahl
-- 👀 I’m interested in C,C++ and Python Languages.
-- 🌱 I’m currently learning Python and C++.
+- 🌱 I’m currently learning Python,Java and C++.
 - 💞️ I’m looking to collaborate on my upcoming projects.
 - 📫 Reach me @ogideology on instagram and adityabahl12345@gmail.com
 
