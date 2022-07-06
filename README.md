@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Bahl
-- 🌱 I’m currently learning Python,Java and C++.
+- 🌱 I’m currently learning Python, Java, C++, Web Development.
 - 💞️ I’m looking to collaborate on my upcoming projects.
 - 📫 Reach me @ogideology on instagram or adityabahl12345@gmail.com
 
