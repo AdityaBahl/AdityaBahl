@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=adityabahl&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adityabahl)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adityabahl&langs_count=5&theme=tokyonight)]()
 
 [![@adityabahl's Holopin board](https://holopin.me/adityabahl)](https://holopin.io/@adityabahl)
