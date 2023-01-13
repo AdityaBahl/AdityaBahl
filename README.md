@@ -1,8 +1,7 @@
-![](https://komarev.com/ghpvc/?username=AdityaBahl)
-- 👋 Hi, I’m Aditya Bahl.
-- 🌱 I’m currently learning Python, Java, C++, Kotlin, Web Development, AI, ML, Android Development.
+- 👋 Hi, I’m ***Aditya Bahl***.
+- 🌱 I’m currently learning ***Python***, ***Java***, ***C++***, ***Kotlin***, ***Web Development***, ***AI***, ***ML***, ***Android Development***.
 - 💞️ I’m looking to collaborate on my upcoming projects.
-- 📫 Reach me at adityabahl12345@gmail.com!
+- 📫 Reach me at ***adityabahl12345@gmail.com***!
 
 <!---
 AdityaBahl/AdityaBahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +16,5 @@ You can click the Preview link to take a look at your changes.
 [![@adityabahl's Holopin board](https://holopin.me/adityabahl)](https://holopin.io/@adityabahl)
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AdityaBahl/count.svg" />
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 </p>
