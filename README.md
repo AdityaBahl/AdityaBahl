@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
 [![@adityabahl's Holopin board](https://holopin.me/adityabahl)](https://holopin.io/@adityabahl)
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/adityabahl/count.svg" />
+  <img src="https://profile-counter.glitch.me/AdityaBahl/count.svg" />
 </p>
