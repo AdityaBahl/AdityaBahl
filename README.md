@@ -1,3 +1,4 @@
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adityabahl&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m ***Aditya Bahl***.
 - 🌱 I’m currently learning ***Python***, ***Java***, ***C++***, ***Kotlin***, ***Web Development***, ***AI***, ***ML***, ***Android Development***.
 - 💞️ I’m looking to collaborate on my upcoming projects.
