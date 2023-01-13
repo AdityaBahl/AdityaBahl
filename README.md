@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=AdityaBahl)
+<!---![](https://komarev.com/ghpvc/?username=AdityaBahl)--->
 - 👋 Hi, I’m ***Aditya Bahl***.
 - 🌱 I’m currently learning ***Python***, ***Java***, ***C++***, ***Kotlin***, ***Web Development***, ***AI***, ***ML***, ***Android Development***.
 - 💞️ I’m looking to collaborate on my upcoming projects.
