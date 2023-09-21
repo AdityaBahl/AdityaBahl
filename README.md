@@ -1,8 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=AdityaBahl)
-- 👋 Hi, I’m ***Aditya Bahl***.
-- 🌱 I’m currently learning ***Python***, ***Java***, ***C++***, ***Kotlin***, ***Web Development***, ***AI***, ***ML***, ***Android Development***.
+- 👋 Hi, I’m ***Aditya Bahl***. Currently Pursuing ***B.Tech Computer Science Engineering*** from ***Graphic Era University*** and am in my ***Final Year***.
+- 🌱 I’m currently learning ***Web Development***, ***AI***, ***ML***, ***Android Development***,***Python***, ***Java***, ***C++***, ***Kotlin***.
+- 👨🏼‍🚀 My Preferred Web Development Stack is MERN(MongoDB, ExpressJs, ReactJs and NodeJs).
+- 🚀 My Recent ***Work Experiences*** are:
+
+       Full Stack Web Intern @ MLS Classes (July 2023 - Present) 
+       Front End Lead Intern @ ProYouth.in (Feb 2023 - May 2023)
+- 🤖 ***Tools and Frameworks*** - GCS, AWS, Docker, Git, MySQL, LATEX , Android Studio, Visual Studio Code.
+- 🎮 ***Skills*** - Data Structures, STL, Algorithms, Basics of Network Programming, APIs, Python Libraries
 - 💞️ I’m looking to collaborate on my upcoming projects.
-- 📫 Reach me at ***adityabahl12345@gmail.com***!
+- 📫 Reach me at ***[My Portfolio Website](https://adityabahl.github.io/)***!
 
 <!---
 AdityaBahl/AdityaBahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
