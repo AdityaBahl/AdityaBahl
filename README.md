@@ -4,10 +4,11 @@
 - 👨🏼‍🚀 My Preferred Web Development Stack is MERN(MongoDB, ExpressJs, ReactJs and NodeJs).
 - 🚀 My Recent ***Work Experiences*** are:
 
-       Full Stack Web Intern @ MLS Classes (July 2023 - Present) 
+       Full Stack Web Developer Lead Intern @ AlgoNinjas (July 2023 - Present)
+       Full Stack Web Developer Lead Intern @ MLS Classes (June 2023 - October 2023) 
        Front End Lead Intern @ ProYouth.in (Feb 2023 - May 2023)
 - 🤖 ***Tools and Frameworks*** - GCS, AWS, Docker, Git, MySQL, LATEX , Android Studio, Visual Studio Code.
-- 🎮 ***Skills*** - Data Structures, STL, Algorithms, Basics of Network Programming, APIs, Python Libraries
+- 🎮 ***Skills*** - Data Structures, STL, Algorithms, Basics of Network Programming, APIs, Python Libraries, Open Source Development.
 - 💞️ I’m looking to collaborate on my upcoming projects.
 - 📫 Reach me at ***[My Portfolio Website](https://adityabahl.github.io/)***!
 
